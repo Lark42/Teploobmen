@@ -1,0 +1,14 @@
+C:\Users\glebl\OneDrive\Рабочий стол\Новая папка\MAAG2\MAAG\obj\Debug\net6.0\MAAG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glebl\OneDrive\Рабочий стол\Новая папка\MAAG2\MAAG\obj\Debug\net6.0\MAAG.AssemblyInfoInputs.cache
+C:\Users\glebl\OneDrive\Рабочий стол\Новая папка\MAAG2\MAAG\obj\Debug\net6.0\MAAG.AssemblyInfo.cs
+C:\Users\glebl\OneDrive\Рабочий стол\Новая папка\MAAG2\MAAG\obj\Debug\net6.0\MAAG.csproj.CoreCompileInputs.cache
+C:\Users\glebl\OneDrive\Рабочий стол\Новая папка\MAAG2\MAAG\bin\Debug\net6.0\MAAG.exe
+C:\Users\glebl\OneDrive\Рабочий стол\Новая папка\MAAG2\MAAG\bin\Debug\net6.0\MAAG.deps.json
+C:\Users\glebl\OneDrive\Рабочий стол\Новая папка\MAAG2\MAAG\bin\Debug\net6.0\MAAG.runtimeconfig.json
+C:\Users\glebl\OneDrive\Рабочий стол\Новая папка\MAAG2\MAAG\bin\Debug\net6.0\MAAG.dll
+C:\Users\glebl\OneDrive\Рабочий стол\Новая папка\MAAG2\MAAG\bin\Debug\net6.0\MAAG.pdb
+C:\Users\glebl\OneDrive\Рабочий стол\Новая папка\MAAG2\MAAG\obj\Debug\net6.0\MAAG.dll
+C:\Users\glebl\OneDrive\Рабочий стол\Новая папка\MAAG2\MAAG\obj\Debug\net6.0\refint\MAAG.dll
+C:\Users\glebl\OneDrive\Рабочий стол\Новая папка\MAAG2\MAAG\obj\Debug\net6.0\MAAG.pdb
+C:\Users\glebl\OneDrive\Рабочий стол\Новая папка\MAAG2\MAAG\obj\Debug\net6.0\MAAG.genruntimeconfig.cache
+C:\Users\glebl\OneDrive\Рабочий стол\Новая папка\MAAG2\MAAG\obj\Debug\net6.0\ref\MAAG.dll

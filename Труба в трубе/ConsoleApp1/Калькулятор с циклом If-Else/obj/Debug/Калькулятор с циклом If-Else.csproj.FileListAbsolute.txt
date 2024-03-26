@@ -1,0 +1,7 @@
+C:\Users\glebl\OneDrive\Рабочий стол\Новая папка\C#\ConsoleApp1\Калькулятор с циклом If-Else\bin\Debug\Калькулятор с циклом If-Else.exe.config
+C:\Users\glebl\OneDrive\Рабочий стол\Новая папка\C#\ConsoleApp1\Калькулятор с циклом If-Else\bin\Debug\Калькулятор с циклом If-Else.exe
+C:\Users\glebl\OneDrive\Рабочий стол\Новая папка\C#\ConsoleApp1\Калькулятор с циклом If-Else\bin\Debug\Калькулятор с циклом If-Else.pdb
+C:\Users\glebl\OneDrive\Рабочий стол\Новая папка\C#\ConsoleApp1\Калькулятор с циклом If-Else\obj\Debug\Калькулятор с циклом If-Else.csproj.AssemblyReference.cache
+C:\Users\glebl\OneDrive\Рабочий стол\Новая папка\C#\ConsoleApp1\Калькулятор с циклом If-Else\obj\Debug\Калькулятор с циклом If-Else.csproj.CoreCompileInputs.cache
+C:\Users\glebl\OneDrive\Рабочий стол\Новая папка\C#\ConsoleApp1\Калькулятор с циклом If-Else\obj\Debug\Калькулятор с циклом If-Else.exe
+C:\Users\glebl\OneDrive\Рабочий стол\Новая папка\C#\ConsoleApp1\Калькулятор с циклом If-Else\obj\Debug\Калькулятор с циклом If-Else.pdb
